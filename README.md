@@ -11,17 +11,17 @@ Serial port ve servo motor pinini kullanıcı tarafında labview arayüzünden s
 
 ## Çalışma Adımları
 - 8 metreden az hesaplanan su doposu :
-- 
+
 [Uygulama Arayuzu](https://github.com/YavuzAktas/ContactlessWaterLevelControllerLabview/blob/master/images/1.png), 
 [Uygulama Resmi](https://github.com/YavuzAktas/ContactlessWaterLevelControllerLabview/blob/master/images/20220605_165643.jpg)
 
 - 8 metreden az hesaplanan su deposu, servo motor hareket ettirme :
-- 
+
 [Uygulama Arayuzu](https://github.com/YavuzAktas/ContactlessWaterLevelControllerLabview/blob/master/images/2.png), 
 [Uygulama Resmi](https://github.com/YavuzAktas/ContactlessWaterLevelControllerLabview/blob/master/images/20220605_165707.jpg)
 
 - 8 metreden fazla hesaplanan su deposu : 
-- 
+
 [Uygulama Arayuzu](https://github.com/YavuzAktas/ContactlessWaterLevelControllerLabview/blob/master/images/3.png), 
 [Uygulama Resmi](https://github.com/YavuzAktas/ContactlessWaterLevelControllerLabview/blob/master/images/20220605_165805.jpg)
 
